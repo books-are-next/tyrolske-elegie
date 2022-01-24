@@ -12,6 +12,7 @@ meta:
   publisher: Městská knihovna v Praze
   languageCode: cs
 readingOrder:
+  - section0001.html
   - section0002.html
   - section0003.html
   - section0004.html
@@ -26,6 +27,7 @@ tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts
