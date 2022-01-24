@@ -1,0 +1,126 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Tyrolské elegie",
+    "identifier": "c723c86b-7ae5-4d80-b809-3766e540c689",
+    "author": "Karel Havlíček Borovský",
+    "language": "cs",
+    "modified": "2022-01-24T15:21:58.763Z",
+    "Sigil version": "0.3.0"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0011.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/88x31.png"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/pd-88x31.png"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "I.",
+      "href": "OEBPS/Text/Section0002.xhtml"
+    },
+    {
+      "title": "II.",
+      "href": "OEBPS/Text/Section0003.xhtml"
+    },
+    {
+      "title": "III.",
+      "href": "OEBPS/Text/Section0004.xhtml"
+    },
+    {
+      "title": "IV.",
+      "href": "OEBPS/Text/Section0005.xhtml"
+    },
+    {
+      "title": "V.",
+      "href": "OEBPS/Text/Section0006.xhtml"
+    },
+    {
+      "title": "VI.",
+      "href": "OEBPS/Text/Section0007.xhtml"
+    },
+    {
+      "title": "VII.",
+      "href": "OEBPS/Text/Section0008.xhtml"
+    },
+    {
+      "title": "VIII.",
+      "href": "OEBPS/Text/Section0009.xhtml"
+    },
+    {
+      "title": "IX.",
+      "href": "OEBPS/Text/Section0010.xhtml"
+    }
+  ]
+}
