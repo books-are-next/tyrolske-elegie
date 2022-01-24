@@ -1,0 +1,301 @@
+{
+  "author": "Karel Havlíček Borovský",
+  "edition": "beletrie",
+  "identifier": "borovsky-tyrolske-elegie-20f5656",
+  "languagecode": "cs",
+  "modified": "2022-01-24T15:21:58.763Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Tyrolské elegie",
+  "revision": "20f5656",
+  "generatedAt": {
+    "date": "Mon Jan 24 2022 15:31:41 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1643038301958
+  },
+  "documents": [
+    {
+      "title": "Tyrolské elegie",
+      "file": "section0002.html",
+      "words": 48,
+      "chars": 282,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "section0003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I.",
+              "id": "i",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tyrolské elegie",
+      "file": "section0003.html",
+      "words": 165,
+      "chars": 903,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 1,
+      "prev": "section0002.html",
+      "next": "section0004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "II.",
+              "id": "ii",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tyrolské elegie",
+      "file": "section0004.html",
+      "words": 100,
+      "chars": 544,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 2,
+      "prev": "section0003.html",
+      "next": "section0005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "III.",
+              "id": "iii",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tyrolské elegie",
+      "file": "section0005.html",
+      "words": 117,
+      "chars": 627,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 3,
+      "prev": "section0004.html",
+      "next": "section0006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "IV.",
+              "id": "iv",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tyrolské elegie",
+      "file": "section0006.html",
+      "words": 95,
+      "chars": 536,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 4,
+      "prev": "section0005.html",
+      "next": "section0007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "V.",
+              "id": "v",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tyrolské elegie",
+      "file": "section0007.html",
+      "words": 78,
+      "chars": 446,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 5,
+      "prev": "section0006.html",
+      "next": "section0008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "VI.",
+              "id": "vi",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tyrolské elegie",
+      "file": "section0008.html",
+      "words": 136,
+      "chars": 794,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 6,
+      "prev": "section0007.html",
+      "next": "section0009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "VII.",
+              "id": "vii",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tyrolské elegie",
+      "file": "section0009.html",
+      "words": 348,
+      "chars": 1928,
+      "ideas": 73,
+      "role": "chapter",
+      "order": 7,
+      "prev": "section0008.html",
+      "next": "section0010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "VIII.",
+              "id": "viii",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tyrolské elegie",
+      "file": "section0010.html",
+      "words": 44,
+      "chars": 252,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 8,
+      "prev": "section0009.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "IX.",
+              "id": "ix",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Tyrolské elegie",
+      "file": "colophon.html",
+      "words": 149,
+      "chars": 1109,
+      "ideas": 17,
+      "role": "colophon",
+      "order": null,
+      "prev": "section0010.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 1287,
+      "chars": 7470,
+      "ideas": 298
+    },
+    "chapters": {
+      "words": 1131,
+      "chars": 6312,
+      "ideas": 277
+    }
+  }
+}
