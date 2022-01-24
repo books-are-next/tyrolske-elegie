@@ -8,7 +8,7 @@ meta:
   author: Karel Havlíček Borovský
   modified: '2022-01-24T15:21:58.763Z'
   publisherShort: mkp
-  edition: beletrie
+  edition: ''
   publisher: Městská knihovna v Praze
   languageCode: cs
 readingOrder:

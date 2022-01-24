@@ -1,16 +1,16 @@
 {
   "author": "Karel Havlíček Borovský",
-  "edition": "beletrie",
-  "identifier": "borovsky-tyrolske-elegie-8288c19",
+  "edition": "",
+  "identifier": "borovsky-tyrolske-elegie-544f803",
   "languagecode": "cs",
   "modified": "2022-01-24T15:21:58.763Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Tyrolské elegie",
-  "revision": "8288c19",
+  "revision": "544f803",
   "generatedAt": {
-    "date": "Mon Jan 24 2022 15:42:15 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1643038935836
+    "date": "Mon Jan 24 2022 16:04:33 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1643040273275
   },
   "documents": [
     {
@@ -308,9 +308,9 @@
   ],
   "totals": {
     "all": {
-      "words": 1287,
-      "chars": 7470,
-      "ideas": 298
+      "words": 1286,
+      "chars": 7462,
+      "ideas": 297
     },
     "chapters": {
       "words": 1131,
