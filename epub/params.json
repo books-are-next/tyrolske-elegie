@@ -6,7 +6,7 @@
       "author": "Karel Havlíček Borovský",
       "modified": "2022-01-24T15:21:58.763Z",
       "publisherShort": "mkp",
-      "edition": "beletrie",
+      "edition": "",
       "publisher": "Městská knihovna v Praze",
       "languageCode": "cs"
     },
@@ -174,7 +174,7 @@
       "title": "Tyrolské elegie",
       "identifier": "c723c86b-7ae5-4d80-b809-3766e540c689",
       "author": "Karel Havlíček Borovský",
-      "modified": "2022-01-24T15:30:46.891Z"
+      "modified": "2022-01-24T15:41:30.416Z"
     },
     "chapters": [
       {
@@ -286,6 +286,6 @@
       "user": "books-are-next",
       "repo": "tyrolske-elegie"
     },
-    "generatedAt": 1643038247069
+    "generatedAt": 1643038890596
   }
 }
