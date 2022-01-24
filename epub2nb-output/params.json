@@ -73,7 +73,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "I.\n"
           },
           {
             "filename": "section0003.md",
@@ -83,7 +84,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "II.\n"
           },
           {
             "filename": "section0004.md",
@@ -93,7 +95,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "III.\n"
           },
           {
             "filename": "section0005.md",
@@ -103,7 +106,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "IV.\n"
           },
           {
             "filename": "section0006.md",
@@ -113,7 +117,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "V.\n"
           },
           {
             "filename": "section0007.md",
@@ -123,7 +128,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "VI.\n"
           },
           {
             "filename": "section0008.md",
@@ -133,7 +139,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "VII.\n"
           },
           {
             "filename": "section0009.md",
@@ -143,7 +150,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "VIII.\n"
           },
           {
             "filename": "section0010.md",
@@ -153,7 +161,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "IX.\n"
           },
           {
             "filename": "section0011.md",
@@ -174,7 +183,7 @@
       "title": "Tyrolské elegie",
       "identifier": "c723c86b-7ae5-4d80-b809-3766e540c689",
       "author": "Karel Havlíček Borovský",
-      "modified": "2022-01-24T16:03:39.563Z"
+      "modified": "2022-01-24T16:23:01.424Z"
     },
     "chapters": [
       {
@@ -286,6 +295,6 @@
       "user": "books-are-next",
       "repo": "tyrolske-elegie"
     },
-    "generatedAt": 1643040219742
+    "generatedAt": 1643041381611
   }
 }
