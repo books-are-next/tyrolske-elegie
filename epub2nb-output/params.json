@@ -182,8 +182,7 @@
     "metadata": {
       "title": "Tyrolské elegie",
       "identifier": "c723c86b-7ae5-4d80-b809-3766e540c689",
-      "author": "Karel Havlíček Borovský",
-      "modified": "2022-01-24T16:23:01.424Z"
+      "author": "Karel Havlíček Borovský"
     },
     "chapters": [
       {
@@ -295,6 +294,6 @@
       "user": "books-are-next",
       "repo": "tyrolske-elegie"
     },
-    "generatedAt": 1643041381611
+    "generatedAt": 1652351405240
   }
 }

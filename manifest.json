@@ -1,16 +1,31 @@
 {
-  "author": "Karel Havlíček Borovský",
-  "edition": "",
-  "identifier": "borovsky-tyrolske-elegie-009ad86",
-  "languagecode": "cs",
-  "modified": "2022-01-24T15:21:58.763Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Tyrolské elegie",
-  "revision": "009ad86",
+  "author": "Karel Havlíček Borovský",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "borovsky-tyrolske-elegie-8059833",
+  "revision": "8059833",
+  "readingOrder": [
+    "section0001.html",
+    "section0002.html",
+    "section0003.html",
+    "section0004.html",
+    "section0005.html",
+    "section0006.html",
+    "section0007.html",
+    "section0008.html",
+    "section0009.html",
+    "section0010.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Mon Jan 24 2022 16:23:55 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1643041435284
+    "date": "Thu May 12 2022 10:38:51 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351931161
   },
   "documents": [
     {
@@ -286,11 +301,11 @@
       ]
     },
     {
-      "title": "Tiráž • Tyrolské elegie",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 149,
-      "chars": 1109,
-      "ideas": 17,
+      "words": 130,
+      "chars": 953,
+      "ideas": 14,
       "role": "colophon",
       "order": null,
       "prev": "section0010.html",
@@ -308,9 +323,9 @@
   ],
   "totals": {
     "all": {
-      "words": 1286,
-      "chars": 7462,
-      "ideas": 297
+      "words": 1267,
+      "chars": 7306,
+      "ideas": 294
     },
     "chapters": {
       "words": 1131,
