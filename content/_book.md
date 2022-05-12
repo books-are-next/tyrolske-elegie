@@ -13,6 +13,7 @@ meta:
   publisher: Městská knihovna v Praze
   languageCode: cs
 readingOrder:
+  - promo.html
   - section0001.html
   - section0002.html
   - section0003.html
