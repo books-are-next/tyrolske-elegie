@@ -1,14 +1,15 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "poetry",
       "title": "Tyrolské elegie",
       "identifier": "c723c86b-7ae5-4d80-b809-3766e540c689",
       "author": "Karel Havlíček Borovský",
       "modified": "2022-01-24T15:21:58.763Z",
       "publisherShort": "mkp",
       "edition": "",
-      "publisher": "Městská knihovna v Praze",
-      "languageCode": "cs"
+      "publisher": "Městská knihovna v Praze"
     },
     "elements": {
       "title": "",
@@ -73,8 +74,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "I.\n"
+            "title": "I.\n",
+            "children": []
           },
           {
             "filename": "section0003.md",
@@ -84,8 +85,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "II.\n"
+            "title": "II.\n",
+            "children": []
           },
           {
             "filename": "section0004.md",
@@ -95,8 +96,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "III.\n"
+            "title": "III.\n",
+            "children": []
           },
           {
             "filename": "section0005.md",
@@ -106,8 +107,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "IV.\n"
+            "title": "IV.\n",
+            "children": []
           },
           {
             "filename": "section0006.md",
@@ -117,8 +118,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "V.\n"
+            "title": "V.\n",
+            "children": []
           },
           {
             "filename": "section0007.md",
@@ -128,8 +129,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "VI.\n"
+            "title": "VI.\n",
+            "children": []
           },
           {
             "filename": "section0008.md",
@@ -139,8 +140,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "VII.\n"
+            "title": "VII.\n",
+            "children": []
           },
           {
             "filename": "section0009.md",
@@ -150,8 +151,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "VIII.\n"
+            "title": "VIII.\n",
+            "children": []
           },
           {
             "filename": "section0010.md",
@@ -161,8 +162,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "IX.\n"
+            "title": "IX.\n",
+            "children": []
           },
           {
             "filename": "section0011.md",
@@ -176,14 +177,14 @@
           }
         ]
       }
-    ]
+    ],
+    "replacements": []
   },
   "epub": {
     "metadata": {
       "title": "Tyrolské elegie",
       "identifier": "c723c86b-7ae5-4d80-b809-3766e540c689",
-      "author": "Karel Havlíček Borovský",
-      "modified": "2022-01-24T16:03:39.563Z"
+      "author": "Karel Havlíček Borovský"
     },
     "chapters": [
       {
@@ -295,6 +296,6 @@
       "user": "books-are-next",
       "repo": "tyrolske-elegie"
     },
-    "generatedAt": 1643040219742
+    "generatedAt": 1652368243305
   }
 }
