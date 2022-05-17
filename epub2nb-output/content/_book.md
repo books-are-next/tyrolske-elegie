@@ -4,6 +4,8 @@ slug: book
 contentType: prose
 languageCode: cs
 meta:
+  languageCode: cs
+  contentType: poetry
   title: Tyrolské elegie
   identifier: c723c86b-7ae5-4d80-b809-3766e540c689
   author: Karel Havlíček Borovský
@@ -11,7 +13,6 @@ meta:
   publisherShort: mkp
   edition: ''
   publisher: Městská knihovna v Praze
-  languageCode: cs
 readingOrder:
   - promo.html
   - section0001.html
