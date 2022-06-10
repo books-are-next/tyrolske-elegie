@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## I.
 
 Sviť, měsíčku, polehoučku  
@@ -27,3 +29,5 @@ toť znáš podle křiku;
 neutíkej, nejsem „treu und bieder“,
 
 jsem zde jen ve cviku.
+
+</section>

@@ -8,8 +8,8 @@
   "edition": "",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "borovsky-tyrolske-elegie-dccbfa3",
-  "revision": "dccbfa3",
+  "identifier": "borovsky-tyrolske-elegie-7aa4f36",
+  "revision": "7aa4f36",
   "readingOrder": [
     "promo.html",
     "section0001.html",
@@ -25,8 +25,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Tue May 17 2022 15:17:56 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652800676651
+    "date": "Fri Jun 10 2022 17:57:22 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883842285
   },
   "documents": [
     {
@@ -44,9 +44,9 @@
     {
       "title": "Tyrolské elegie",
       "file": "section0001.html",
-      "words": 0,
+      "words": 1,
       "chars": 0,
-      "ideas": 0,
+      "ideas": 1,
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
@@ -316,9 +316,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 130,
-      "chars": 953,
-      "ideas": 14,
+      "words": 67,
+      "chars": 568,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "section0010.html",
@@ -336,14 +336,14 @@
   ],
   "totals": {
     "all": {
-      "words": 1267,
-      "chars": 7306,
-      "ideas": 294
+      "words": 1205,
+      "chars": 6921,
+      "ideas": 288
     },
     "chapters": {
-      "words": 1131,
+      "words": 1132,
       "chars": 6312,
-      "ideas": 277
+      "ideas": 278
     }
   }
 }

@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## III.  
 
 Občan zvyklý na pořádek —  
@@ -51,3 +53,5 @@ ať mne hodně nutí,
 kdybych nechtěl ze skromnosti přijmout
 
 jeho nabídnutí.
+
+</section>

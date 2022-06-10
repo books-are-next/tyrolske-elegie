@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## VIII.  
 
 Teď, měsíčku, nechme elegie  
@@ -147,3 +149,5 @@ k níž jsem nepřibásnil ani chlup,
 podnes ti to poví e Weidringu
 
 postmistr Dahlrupp.
+
+</section>

@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## VII.  
 
 Když jsme jeli přes Jihlavu,  
@@ -75,3 +77,5 @@ piju vlaské zas;
 ale zdá se, že je v obou stejný
 
 nepokojný kvas.
+
+</section>

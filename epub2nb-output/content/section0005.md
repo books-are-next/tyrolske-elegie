@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## IV.  
 
 Což je dělat? Že pak musím  
@@ -59,3 +61,5 @@ dávno před domem:
 „Milí braši! maličké strpení,
 
 hned již pojedem'!“
+
+</section>
