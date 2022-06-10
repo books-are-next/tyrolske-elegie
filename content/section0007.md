@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## VI.  
 
 Trubka břeští, kola hrčí,  
@@ -43,3 +45,5 @@ znám tě třicet let…
 Ale, chlapče! jaké to obludy
 
 vidím s tebou jet?“
+
+</section>
