@@ -14,6 +14,10 @@ za Lincem zas myšlenky na Kufštein
 
 z hlavy mi nevyšly.
 
+</section>
+
+<section>
+
 Teprva když jsme nechali
 
 Kufštein vpravo stát,
@@ -21,6 +25,10 @@ Kufštein vpravo stát,
 začla se mi alpejská krajina
 
 příjemnější zdát.
+
+</section>
+
+<section>
 
 Hloupá jízda, milý brachu,
 
@@ -30,6 +38,10 @@ veselé ty troubení postilionů
 
 jsou jen bídný klam.
 
+</section>
+
+<section>
+
 Všude kolomaz a všude
 
 přepřahovali:
@@ -37,6 +49,10 @@ přepřahovali:
 kdybyste radš ve Vídni přepřáhli
 
 a namazali! —
+
+</section>
+
+<section>
 
 Telegraf je přece jenom
 
@@ -46,6 +62,10 @@ Ten před námi všude, než jsme přišli,
 
 ohlášení nes'.
 
+</section>
+
+<section>
+
 by nám mohla policie,
 
 starostlivá máti,
@@ -53,6 +73,10 @@ starostlivá máti,
 všude, dříve než tam dojedeme,
 
 kamna rozehřáti.
+
+</section>
+
+<section>
 
 Nesmím ale zapomenout
 
@@ -62,6 +86,10 @@ tam Dedera koupil mělnického
 
 čtyry lahvice.
 
+</section>
+
+<section>
+
 Či-li se v něm vlastenecké
 
 hnuly myšlenky?
@@ -69,6 +97,10 @@ hnuly myšlenky?
 či-li doufal, že to pro mne bude
 
 Léthe na Čechy?
+
+</section>
+
+<section>
 
 Mělnické jsem dávno dopil,
 

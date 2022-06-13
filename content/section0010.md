@@ -14,6 +14,10 @@ krajská vláda dala Dederovi
 
 na mne kvitancí.
 
+</section>
+
+<section>
+
 Místo mne ten kus papíru
 
 vrátili do Čech,
@@ -21,6 +25,10 @@ vrátili do Čech,
 mne zde černý dvojhlavý orel
 
 drží v klepetech.
+
+</section>
+
+<section>
 
 Krajskou vládu, podkrajského,
 
