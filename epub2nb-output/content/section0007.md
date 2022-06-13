@@ -14,6 +14,10 @@ vzadu, abysme nic neztratili,
 
 klušou žandarmi.
 
+</section>
+
+<section>
+
 Ten Borovský kostelíček
 
 stojí na vršku,
@@ -21,6 +25,10 @@ stojí na vršku,
 skrze lesy smutně na mne hledí:
 
 „Jsi to, můj hošku?“
+
+</section>
+
+<section>
 
 Pode mnou jest tvá kolébka,
 
@@ -30,6 +38,10 @@ starému vikáři ministrovat,
 
 pilně se učit.
 
+</section>
+
+<section>
+
 Táhnout světem na zkušenou,
 
 pak s pochodní jít,
@@ -37,6 +49,10 @@ pak s pochodní jít,
 naší chase plamenem veselým
 
 na cestu svítit.
+
+</section>
+
+<section>
 
 Vidíš, jak ty roky plynou,
 

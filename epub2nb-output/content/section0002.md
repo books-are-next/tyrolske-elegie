@@ -14,6 +14,10 @@ jak pak se ti Brixen líbí? 
 
 Neškareď se tak!
 
+</section>
+
+<section>
+
 Nepospíchej, pozastav se,
 
 nechoď ještě spat,
@@ -21,6 +25,10 @@ nechoď ještě spat,
 abych s tebou jen chvílinku moh'
 
 diškurirovat.
+
+</section>
+
+<section>
 
 Nejsem zdejší, můj měsíčku!
 
