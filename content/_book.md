@@ -11,7 +11,7 @@ meta:
   author: Karel Havlíček Borovský
   modified: '2022-01-24T15:21:58.763Z'
   publisherShort: mkp
-  edition: poezie
+  edition: ''
   publisher: Městská knihovna v Praze
 readingOrder:
   - promo.html
