@@ -8,7 +8,7 @@
       "author": "Karel Havlíček Borovský",
       "modified": "2022-01-24T15:21:58.763Z",
       "publisherShort": "mkp",
-      "edition": "",
+      "edition": "poezie",
       "publisher": "Městská knihovna v Praze"
     },
     "elements": {
@@ -295,6 +295,6 @@
       "user": "books-are-next",
       "repo": "tyrolske-elegie"
     },
-    "generatedAt": 1655271906826
+    "generatedAt": 1655364406605
   }
 }
