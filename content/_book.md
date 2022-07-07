@@ -25,7 +25,7 @@ readingOrder:
   - section0008.html
   - section0009.html
   - section0010.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
