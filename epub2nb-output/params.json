@@ -50,7 +50,7 @@
             "filename": "section0013.md",
             "xhtml": "Section0013.xhtml",
             "id": 1,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hiddenTitle": false,
@@ -60,7 +60,7 @@
             "filename": "section0012.md",
             "xhtml": "Section0012.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hiddenTitle": false,
@@ -169,7 +169,7 @@
             "filename": "section0011.md",
             "xhtml": "Section0011.xhtml",
             "id": 12,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hiddenTitle": false,
@@ -295,6 +295,6 @@
       "user": "books-are-next",
       "repo": "tyrolske-elegie"
     },
-    "generatedAt": 1655979921483
+    "generatedAt": 1657182624845
   }
 }

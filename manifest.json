@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "borovsky-tyrolske-elegie-29b5985",
-  "revision": "29b5985",
+  "identifier": "borovsky-tyrolske-elegie-4288fc9",
+  "revision": "4288fc9",
   "readingOrder": [
     "promo.html",
     "section0001.html",
@@ -22,11 +22,11 @@
     "section0008.html",
     "section0009.html",
     "section0010.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:31:06 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655980266627
+    "date": "Thu Jul 07 2022 08:41:28 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183288425
   },
   "documents": [
     {
@@ -294,7 +294,7 @@
       "role": "chapter",
       "order": 10,
       "prev": "section0009.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -315,11 +315,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 158,
-      "chars": 1173,
+      "chars": 1170,
       "ideas": 15,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "section0010.html",
       "next": null,
@@ -337,7 +337,7 @@
   "totals": {
     "all": {
       "words": 1297,
-      "chars": 7532,
+      "chars": 7529,
       "ideas": 297
     },
     "chapters": {
