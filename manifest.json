@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "borovsky-tyrolske-elegie-4244434",
-  "revision": "4244434",
+  "identifier": "borovsky-tyrolske-elegie-6a5bd7e",
+  "revision": "6a5bd7e",
   "readingOrder": [
     "promo.html",
     "section0001.html",
@@ -25,8 +25,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 10:07:46 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657188466358
+    "date": "Thu Jul 21 2022 14:33:37 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414017961
   },
   "documents": [
     {
@@ -317,7 +317,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 158,
-      "chars": 1170,
+      "chars": 1173,
       "ideas": 15,
       "role": "about",
       "order": null,
@@ -337,7 +337,7 @@
   "totals": {
     "all": {
       "words": 1297,
-      "chars": 7529,
+      "chars": 7532,
       "ideas": 297
     },
     "chapters": {
