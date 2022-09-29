@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "borovsky-tyrolske-elegie-6a5bd7e",
-  "revision": "6a5bd7e",
+  "identifier": "borovsky-tyrolske-elegie-6df2733",
+  "revision": "6df2733",
   "readingOrder": [
     "promo.html",
     "section0001.html",
@@ -25,8 +25,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:33:37 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658414017961
+    "date": "Thu Sep 29 2022 21:37:19 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664487439185
   },
   "documents": [
     {
