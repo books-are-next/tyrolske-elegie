@@ -6,7 +6,7 @@ Karel Havlíček Borovský
 Tyrolské elegie  
 Vydala **Městská knihovna v Praze**  
 Mariánské nám. 1, 115 72 Praha 1  
-V MKP 2. elektronické vydání z 10. 10. 2022.
+V MKP 2. elektronické vydání z 21. 10. 2022.
 
 ***
 
@@ -25,7 +25,7 @@ Vydání (obálka, grafická úprava), jehož autorem je Městská knihovna v Pr
 
 Citační záznam této e-knihy:
 
-BOROVSKÝ, Karel Havlíček. Tyrolské elegie \[online\]. V MKP 2. elektronické vydání z 10. 10. 2022. Praha : Městská knihovna v Praze, 2011 \[cit. 10. 10. 2022]. Dostupné z <[books-are-next.github.io/tyrolske-elegie](https://books-are-next.github.io/tyrolske-elegie/)>.
+BOROVSKÝ, Karel Havlíček. Tyrolské elegie \[online\]. V MKP 2. elektronické vydání z 21. 10. 2022. Praha : Městská knihovna v Praze, 2011 \[cit. 21. 10. 2022]. Dostupné z <[books-are-next.github.io/tyrolske-elegie](https://books-are-next.github.io/tyrolske-elegie/)>.
 
 ***
 
